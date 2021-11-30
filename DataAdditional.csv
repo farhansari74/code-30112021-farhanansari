@@ -1,0 +1,7 @@
+Gender,HeightCm,WeightKg,Heightm2,DerivedValue,CatCode,Category,RangeStart,RangeEnd,Risk
+Male,171,96,2.92,32.88,3,Moderately obese,30.0,34.9,Medium risk
+Male,161,85,2.59,32.82,3,Moderately obese,30.0,34.9,Medium risk
+Male,180,77,3.24,23.77,1,Normal weight,18.5,24.9,Low risk
+Female,166,62,2.76,22.46,1,Normal weight,18.5,24.9,Low risk
+Female,150,70,2.25,31.11,3,Moderately obese,30.0,34.9,Medium risk
+Female,167,82,2.79,29.39,2,Overweight,25.0,29.9,Enhanced risk
