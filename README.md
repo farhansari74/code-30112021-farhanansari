@@ -1,6 +1,8 @@
 # code-30112021-farhanansari
 Sample Project for Data Science
+
 Basic:
+
 Please note the following for the project files:
 1. mainProjectRunning.ipynb : This project uses the data shared and processes the output as expected.
 Target data merges the source data and reference data for comparatie analysis and summary.
@@ -18,6 +20,7 @@ Below are the target data files generated:
 2. DataAdditional.json : Target Data in json format
 
 Performance:
+
 Please note the following for the project files are for performance testing using 1,00,000 records.:
 1. mainProjectBigSample.ipynb : This project generates the random data within range. It processes the output as expected.
 Observation for this case is, the performance does not take much time < 5 secs for 1L records. So the code is best tuned.
